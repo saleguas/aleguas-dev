@@ -1,0 +1,40 @@
+<section id="about-section" class="page bg-style1">
+  <!-- Begin page header-->
+  <div class="page-header-wrapper">
+    <div class="container">
+      <div class="page-header text-center wow fadeInUp" data-wow-delay="0.3s">
+        <h2>About</h2>
+        <div class="devider"></div>
+        <p class="subtitle">"A computer once beat me at chess, but it was no match for me at kick boxing."</p>
+      </div>
+    </div>
+  </div>
+  <!-- End page header-->
+
+  <!-- Begin rotate box-1 -->
+
+  <div class="rotate-box-1-wrapper">
+    <div class="container">
+      <div class="row">
+
+        {% for item in site.data.about %}
+        <div class="col-md-3 col-sm-6">
+          <a href="{{item.url}}" class="rotate-box-1 square-icon wow zoomIn" data-wow-delay="0.4s" target="_blank">
+            <span class="rotate-box-icon"><i class="{{item.icon}}"></i></span>
+            <div class="rotate-box-info">
+              <h4>{{item.title}}</h4>
+              <p>{{item.description}}</p>
+            </div>
+          </a>
+        </div>
+        {% endfor %}
+
+      </div> <!-- /.row -->
+    </div> <!-- /.container -->
+  </div>
+  <!-- End rotate box-1 -->
+
+  <div class="extra-space-l"></div>
+
+  <!-- include skills here -->
+</section>

@@ -1,0 +1,49 @@
+specific:
+  - title: Python(built-in)
+    status: Expert
+
+  - title: Jekyll
+    status: Expert
+
+  - title: Office Suite(Word, Excel, etc.)
+    status: Expert
+
+  - title: Git
+    status: Expert
+
+  - title: Django
+    status: Advanced
+
+  - title: Pandas & Numpy
+    status: Advanced
+
+  - title: LaTeX
+    status: Advanced
+    
+  - title: Keras & TensorFlow
+    status: Advanced
+
+  - title: Java
+    status: Intermediate
+
+  - title: HTML & CSS & Javascript
+    status: Intermediate
+
+general:
+  - title: Teamwork
+    status: Expert
+
+  - title: Leadership
+    status: Expert
+
+  - title: Documentation
+    status: Expert
+
+  - title: Databases
+    status: Advanced
+
+  - title: Informational Technology
+    status: Advanced
+
+  - title: Cyber-Security
+    status: Intermediate

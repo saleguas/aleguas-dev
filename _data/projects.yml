@@ -1,0 +1,148 @@
+- title: Freshen
+  category: Libraries
+  subtitle: A file sorter that attaches itself to the context menu.
+  link: https://github.com/saleguas/freshen-sorter
+  img: https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png
+
+- title: context-menu
+  category: Libraries
+  subtitle: The only Python library to create cross-platform native context menus.
+  link: https://github.com/saleguas/context_menu
+  img: https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png
+
+# ------
+
+- title: Pinnacle Grade Calculator
+  category: Fullstack
+  subtitle: A Google Chrome extension that manipulates grades in the Broward County Public Schools(BCPS) gradebook.
+  link: https://chrome.google.com/webstore/detail/pinnacle-grade-calculator/ajmebljhmdndihimeodajeiicccpdfei?hl=en
+  img: /img/portfolio/computer.svg
+
+- title: Django Point System
+  category: Fullstack
+  subtitle: A digital point system for clubs using QR codes and multi relational databases.
+  link: https://github.com/saleguas/django-point-system
+  img: /img/portfolio/computer.svg
+
+- title: Jekyll Volcanized
+  category: Fullstack
+  subtitle: A futuristic Jekyll template that is highly modularized and customizable.
+  link: https://github.com/saleguas/jekyll-volcanized
+  img: /img/portfolio/computer.svg
+
+- title: Broward College Grade Calculator
+  category: Fullstack
+  subtitle: A Google Chrome extension that automatically displays your class grade on the D2L website for Broward College.
+  link: https://chrome.google.com/webstore/detail/bc-grade-calculator/indmmjbhnaffjfchjohdjomfefjbakef
+  img: /img/portfolio/computer.svg
+
+- title: aleguas-dev
+  category: Fullstack
+  subtitle: The website you are on right now! My personal developer webpage.
+  link: https://github.com/saleguas/aleguas-dev
+  img: /img/portfolio/computer.svg
+
+
+- title: AICE Grade Threshold Calculator
+  category: Fullstack
+  subtitle: A calculator created to adjust the AICE examination grade thresholds on a curve.
+  link: https://saleguas.github.io/aice-curve-calculator/
+  img: /img/portfolio/computer.svg
+
+- title: Broward GPA calculator
+  category: Fullstack
+  subtitle: A grade-point average calculator website following the Broward County Public Schools(BCPS) standards. Look at the results for "Cypress Bay GPA calculator" or "Broward County GPA calculator" on any search engine.
+  link: https://salvadoraleguas.info/
+  img: /img/portfolio/computer.svg
+
+  ##########
+
+- title: Stock Regression Analyzer
+  category: Other
+  subtitle: Evaluates the performance of an LSTM algorithm for stock forecasting.
+  link: https://github.com/saleguas/machine-learning-performance-analyzer
+  img: /img/portfolio/computer.svg
+
+  #########
+
+- title: Creating Cascading Context Menus With The Windows 10 Registry
+  category: Publications
+  subtitle: Published under Analytics-vidyha
+  link: https://medium.com/analytics-vidhya/creating-cascading-context-menus-with-the-windows-10-registry-f1cf3cd8398f
+  img: https://miro.medium.com/max/700/0*SDx-g41shlzqPCv4
+
+- title: Uploading (Functional) Python Projects to pip and PyPI
+  category: Publications
+  subtitle: Published under Analytics-vidyha
+  link: https://medium.com/analytics-vidhya/uploading-functional-python-projects-to-pip-pypi-af73af754da0
+  img: https://miro.medium.com/max/1000/0*1-GnfHW8uTNgMiO3
+
+- title: Web Scrape With Multi-Threaded File Downloads Using Python
+  category: Publications
+  subtitle: Published under Analytics-vidyha
+  link: https://medium.com/analytics-vidhya/web-scraping-with-multi-threaded-file-downloading-using-python-77e9cfd6d14c
+  img: https://miro.medium.com/max/700/0*QLvJ4Yg3Lc-vuwQz.jpg
+
+- title: Properly Install and Prepare the LaTeX Environment (With GIFs)
+  category: Publications
+  subtitle: Published under Analytics-vidyha
+  link: https://medium.com/@salvadoraleguas/properly-installing-and-preparing-the-latex-environment-with-gifs-4f403e569372
+  img: https://miro.medium.com/max/700/0*LYNAgHmyWSZcCQU0.png
+
+- title: The art of one lining in Python
+  category: Publications
+  subtitle: Published under Analytics-vidyha
+  link: https://medium.com/analytics-vidhya/the-art-of-one-lining-in-python-1b96fc6fc5a9
+  img: https://miro.medium.com/max/700/0*d78c6wH_nskNUO0L.jpg
+
+- title: Unearthing the Original Native GUI
+  category: Publications
+  subtitle: Published under codeburst
+  link: https://codeburst.io/unearthing-the-original-native-gui-5874ea2661a2
+  img: https://miro.medium.com/max/700/0*Pm7iAHhBxnr2tuQ2
+
+- title: The Unseen Pitfalls of Python
+  category: Publications
+  subtitle: Published under codeburst
+  link: https://codeburst.io/the-unseen-pitfalls-of-python-7ca57f021d08
+  img: https://miro.medium.com/max/700/0*GJAvflRm3ham1xna
+
+- title: I Changed the Value of 1
+  category: Publications
+  subtitle: Published under gitconnected
+  link: https://levelup.gitconnected.com/i-changed-the-value-of-1-eb3a90529648
+  img: https://miro.medium.com/max/2160/1*qA_m1EPjfjjS6PmE_K3P6g.jpeg
+
+
+
+# - title: GUIhasher
+#   category: misc
+#   subtitle: A GUI for hashing files, coded in C#.
+#   link: https://github.com/saleguas/guihasher
+#   img: /img/portfolio/p1.jpg
+
+
+
+# - title: Broward College Grade Calculator Website
+#   category: FrontEnd
+#   subtitle: A less robust file sorter. Precursor to Freshen with completely different code.
+#   link: https://github.com/saleguas/deskOrg
+#   img: /img/portfolio/p1.jpg
+#
+# - title: DeskOrg
+#   category: misc
+#   subtitle: A less robust file sorter. Precursor to Freshen with completely different code.
+#   link: https://github.com/saleguas/deskOrg
+#   img: /img/portfolio/p1.jpg
+#
+# - title: Kattis Solutions
+#   category: misc
+#   subtitle: Solutions to competitive programming problems in the Kattis archive.
+#   link: https://github.com/saleguas/kattis_solutions
+#   img: /img/portfolio/p1.jpg
+#
+# - title: Directory Name Lister
+#   category: misc
+#   subtitle: Lists all files in a given directory using an argument parser. Coded in C++.
+#   link: https://github.com/saleguas/dirNameLister
+#   img: /img/portfolio/p1.jpg

@@ -1,0 +1,19 @@
+- title: Fullstack
+  description: "Experienced in both front-end and back-end design. Familar with frameworks such as: Flask, Django, and Jekyll"
+  icon: fa fa-layer-group
+  url: https://github.com/saleguas/django-point-system
+
+- title: Data Science
+  description: Extremely well-versed in Python and data-science libraries. Capable of developing Machine Learning programs.
+  icon: fa fa-atom
+  url: https://github.com/saleguas/machine-learning-performance-analyzer
+
+- title: Publications
+  description: Writer for multiple different technical publications on Medium.
+  icon: fa fa-pencil-alt
+  url: https://medium.com/@salvadoraleguas
+
+- title: FOSS Developer
+  description: Multiple popular open-source projects on GitHub, each one having detailed documentation. Used readthedocs for automatic documentation building.
+  icon: fa fa-robot
+  url: https://github.com/saleguas/context_menu
