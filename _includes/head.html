@@ -6,6 +6,11 @@
   <link rel="shortcut icon" type="image/x-icon" href="{{ "/favicon.ico" | relative_url }}" >  <!-- Mobile Metas -->
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
+  <!-- make preview.png the preview image -->
+  <meta name="msapplication-TileImage" content="{{ "/img/preview.png" | relative_url }}" />
+  <meta property="og:image" content="{{ "/img/preview.png" | relative_url }}" />
+  <meta name="twitter:image" content="{{ "/img/preview.png" | relative_url }}" />
+
   <script src="{{ 'inc/lazysizes.min.js' | relative_url }}"></script>
 
   {% include cssfiles.html %}
