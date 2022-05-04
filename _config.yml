@@ -20,13 +20,10 @@
 # -------------------
 
 title: Salvador Aleguas
-tagline: Developer portfolio website of Salvador Aleguas
+tagline: Portfolio
 email: salvador@aleguas.dev
 description: >- # this means to ignore newlines until "baseurl:"
-  Current Student at the University of Florida pursuing a Bachelors of Computer science and looking for internship opportunities.
-  Highly motivated open-source developer and writer with a passion for technology.
-  Advanced proficiency of Python and knowledge of the internet, including SEO work which has placed multiple websites on the front pages of Google, Bing, and other major search engines.
-  Specializes in planning, designing, and publishing large-scale projects.
+  The developer portfolio of open source developer & software engineer Salvador Aleguas
 
 author: Salvador Aleguas
 logo: /img/logo_large.png
@@ -35,6 +32,7 @@ social:
   links:
     - https://medium.com/@salvadoraleguas
     - https://github.com/saleguas
+    - https://www.linkedin.com/in/saleguas/
 # -------------------
 # End Seo stuff
 # -------------------
