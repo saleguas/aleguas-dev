@@ -2,7 +2,7 @@
 title: Salvador Aleguas | Portfolio # your site title
 author: saleguas # You :P
 description: > # Meta description of Homepage
-    The developer portfolio of open source developer & software engineer Salvador Aleguas.
+    Hi! I'm Salvador Aleguas and I'm an open-source developer and student. This is my personal website where I have all my projects and articles, as well as contact information.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://aleguas.dev" # the base hostname & protocol for your site, e.g. http://example.com
 
