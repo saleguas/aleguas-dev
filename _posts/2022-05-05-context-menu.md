@@ -346,7 +346,7 @@ can reference this table to determine the `type`:
 
 * * *
 
-I strongly recommend checking out the [examples folder](examples) for more complicated examples and usage.
+I strongly recommend checking out the [examples folder](https://github.com/saleguas/context_menu/tree/master/examples) for more complicated examples and usage.
 
 You can check out the official documentation [here](https://context-menu.readthedocs.io/en/latest/index.html).
 
